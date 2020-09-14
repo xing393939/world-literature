@@ -1,4 +1,4 @@
-### C 语言学习
+### 中国文学
 
 #### 参考资料
-1. [Linux C 编程一站式学习](http://akaedu.github.io/book/index.html)
+1. [古哥古点——水中的草，天上的星，说不尽的中国文学史](https://www.ximalaya.com/lishi/4792795/22785557)

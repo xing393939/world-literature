@@ -2,3 +2,14 @@
 
 #### 参考资料
 * [中国思想史视频](https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A7%A6%E6%99%96%E5%85%AC%E5%BC%80%E8%AF%BE/53975167)
+
+#### 日常阅读
+* [纽约时报中文](https://cn.nytimes.com/)
+* [华尔街日报中文](https://cn.wsj.com/)
+* [FT中文网](https://cn.ft.com/)
+* [BBS中文](https://www.bbc.com/zhongwen/simp)
+* [财富中文](https://www.fortunechina.com/)
+* [福尔斯中文](https://www.forbeschina.com/)
+* [国家地理](https://www.natgeomedia.com/history/)
+* [奇客](https://www.solidot.org/)
+* [路透社中文](https://cn.reuters.com/)，已关闭

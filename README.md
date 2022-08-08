@@ -9,8 +9,7 @@
 * [FT中文网](https://cn.ft.com/)
 * [BBS中文](https://www.bbc.com/zhongwen/simp)
 * [财富中文](https://www.fortunechina.com/)
-* [福尔斯中文](https://www.forbeschina.com/)
-* [联合早报](https://www.zaobao.com.sg/global)，新加坡
 * [奇客](https://www.solidot.org/)
-* [路透社中文](https://cn.reuters.com/)，已关闭
+* 德国之声
+* 日经中文网
 * [经济学人、卫报、国家地理](https://github.com/hehonghui/the-economist-ebooks)

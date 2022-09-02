@@ -7,7 +7,8 @@
 * [3.文学大纲](docs/literary-outline.md)
 * [4.蒋承勇的外国文学史](docs/history-of-foreign-literature1.md)
 * [5.刘洪涛的外国文学史](docs/history-of-foreign-literature2.md)
-* 6.作家
+* [5.毛姆读书随笔](docs/reading-notes.md)
+* 7.作家
   * [1.陀思妥耶夫斯基](docs/writer-01.md)
   * [2.罗曼罗兰](docs/writer-02.md)
   * [3.伏尔泰](docs/writer-03.md)

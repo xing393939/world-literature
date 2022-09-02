@@ -2,11 +2,11 @@
 
 ### 目录
 
-* [1.中国文学史](docs/1.md)
-* [2.木心回忆录](docs/2.md)
-* [3.文学大纲](docs/3.md)
-* [4.蒋承勇的外国文学史](docs/4.md)
-* [5.刘洪涛的外国文学史](docs/5.md)
+* [1.中国文学史](docs/history-of-chinese-literature.md)
+* [2.木心回忆录](docs/memoirs-of-literature.md)
+* [3.文学大纲](docs/literary-outline.md)
+* [4.蒋承勇的外国文学史](docs/history-of-foreign-literature1.md)
+* [5.刘洪涛的外国文学史](docs/history-of-foreign-literature2.md)
 * 6.作家
   * [1.陀思妥耶夫斯基](docs/4-01.md)
   * [2.罗曼罗兰](docs/4-02.md)

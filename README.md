@@ -12,4 +12,5 @@
 * [奇客](https://www.solidot.org/)
 * 德国之声
 * 日经中文网
+* 全球最大的三家新闻通讯社：美联社(美国)、路透社(英国)、法新社(法国)。
 * [经济学人、卫报、国家地理](https://github.com/hehonghui/the-economist-ebooks)

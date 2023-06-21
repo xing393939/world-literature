@@ -2,6 +2,8 @@
 
 #### 参考资料
 * [中国思想史视频](https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A7%A6%E6%99%96%E5%85%AC%E5%BC%80%E8%AF%BE/53975167)
+* [知识图谱-古籍](https://cnkgraph.com/Book)
+* [国学导航](http://www.guoxue123.com/)
 
 #### 日常阅读
 * [纽约时报中文](https://cn.nytimes.com/)

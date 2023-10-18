@@ -14,5 +14,6 @@
 * [奇客](https://www.solidot.org/)
 * 德国之声
 * 日经中文网
+* 彭博新闻社，全球最大的财经资讯公司，总部在英国，曾传言要收购FT
 * 全球最大的三家新闻通讯社：美联社(美国)、路透社(英国)、法新社(法国)。
 * [经济学人、卫报、国家地理](https://github.com/hehonghui/the-economist-ebooks)
